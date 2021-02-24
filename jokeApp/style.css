@@ -1,0 +1,36 @@
+p {
+    color: blue;
+    font-size: large;
+}
+
+#punchline {
+    color: crimson;
+    font-size: larger;
+}
+
+.card{
+    width: 18rem;
+}
+
+.container{
+    text-align: center;
+}
+
+.banner{
+    border: black solid;
+    padding: 3em;
+}
+
+.savedJokes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h2 {
+    padding: 1em;
+}
+
+h6{
+    padding: 2em;
+}
