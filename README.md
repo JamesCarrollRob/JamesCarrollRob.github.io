@@ -1,2 +1,2 @@
 # Hello!
-<a href="jokeApp/index.html">jokeApp/index.html</a>
+<a href="jokeApp/index.html">Click here if your name is Anastasia and you love jokes!!</a>
